@@ -1,0 +1,43 @@
+body {
+  background-color: #d0f095;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
+
+/* Add a border around paragraphs */
+p {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+/* Center the first paragraph */
+p:first-of-type {
+  text-align: center;
+}
+
+/* Style links */
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+
+  
